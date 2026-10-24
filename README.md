@@ -25,7 +25,7 @@ A real-time terminal dashboard for CPU, memory, disk, network, and process activ
 Requires Python 3 and a terminal on macOS.
 
 ```bash
-git clone https://github.com/kickazzcoderz/activity-monitor.git
+git clone https://github.com/TheMoshiach/activity-monitor.git
 cd activity-monitor
 python3 -m venv .venv
 source .venv/bin/activate
